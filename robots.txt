@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-anhxci.salamduit.online/sitemap.xml
